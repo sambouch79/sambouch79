@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam
-- 👀 I’m interested in Nodejs
+- 👀 I’m interested in Nodejs , three js and c#
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...

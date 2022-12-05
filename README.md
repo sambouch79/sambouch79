@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam
-- 👀 I’m interested in Nodejs , three js and c#
-- 🌱 I’m currently learning angular
+- 👀 I’m interested in C# , three js and Node.js
+- 🌱 I’m currently learning Cypress.io
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 

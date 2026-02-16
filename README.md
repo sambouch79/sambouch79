@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam
-- 👀 I’m interested in C# , three js and Node.js
+- 👀 I’m interested in java, spring batch, Kafka ,Quarkus, prometheus and Node.js
 - 🌱 I’m currently learning Cypress.io
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
